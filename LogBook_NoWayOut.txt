@@ -150,3 +150,19 @@ Chuck
 - 
 Hesty
 - Perubahan warna dan tampilan slide.
+
+************************************************************************************************
+13/6
+Arfan
+- Memperbaiki tampilan font
+
+Hesty
+- Memeriksa dan menambah kekurangan pada slide|
+
+Samuel
+- Perbaikan tampilan slide persentasi
+
+************************************************************************************************
+14-15/06
+Arfan, Hesty, Samuel 
+- Penyempurnaan slide akhir
